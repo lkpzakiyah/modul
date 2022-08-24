@@ -1,0 +1,42 @@
+.jumbotron{
+	padding-top: 100px;
+	background-color: white;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+	background-color: #fff500;
+}
+
+.jumbotron h1{
+	font-weight: bold;
+}
+
+#modul{
+	background-color: #e0f7ff;
+}
+
+footer a{
+	text-decoration: none;
+	color: black;
+}
+
+footer{
+	padding-bottom: 20px;
+	background-color: #fff500;
+}
+
+section{
+	padding-top: 70px;
+}
+
+.card-img-top{
+	width: 100%;
+}
